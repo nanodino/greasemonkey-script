@@ -3,8 +3,8 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Ask for confirmation before merging pull requests after 3 PM
-// @author       Your Name
-// @match        *://*/*  // Adjust this to match the specific site you want to run the script on
+// @author       NANCY CANTU
+// @match        https://github.com/* 
 // @grant        none
 // ==/UserScript==
 
