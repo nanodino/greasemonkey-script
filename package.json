@@ -1,0 +1,12 @@
+{
+  "name": "greasemonkey-script",
+  "version": "1.0.0",
+  "description": "A Greasemonkey script that prompts for confirmation before merging pull requests and checks the time.",
+  "main": "src/no-bad-decisions.user.js",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}
