@@ -1,6 +1,6 @@
 # No Bad Decisions
 
-This project contains a Greasemonkey script that helps manage pull requests by asking for confirmation before merging. It checks if the current time is after 3 PM and prompts the user accordingly.
+Adapted from arc-boosts except I don't want to use arc anymore.
 
 ## Installation
 
